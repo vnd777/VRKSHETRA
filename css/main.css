@@ -1,0 +1,66 @@
+body {
+background-image: url(../img/bak.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  font-family: "Raleway", sans-serif;
+}
+
+.bg-img{
+    background-image: url(../img/gif/cbak.gif);
+    background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+.logo-set{
+    display: inline-block;
+}
+
+.responsive-iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0%;
+    width: 100%;
+    height: 100%;
+  }
+
+  .fr-frame
+    {
+        position: relative;
+        width: 100%;
+        overflow: hidden;
+        padding-top: 56.25%;
+      }
+
+      /**about img **/
+      .bg-about{
+        background-image: url(../img/about.jpg);
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-size: cover;
+      }
+
+      /** obj img**/
+      .bg-obj{
+        background-image: url(../img/obj-bak.jpg);
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-size: cover;
+      }
+
+      .footer{
+        margin-top: 10%;
+        padding-top: 25px;
+        padding-bottom: 20px;
+        size: 30px;
+      }
+
+      .bg-team{
+        background-image: url(../img/team-bak.jpg);
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-size: cover;
+      }
